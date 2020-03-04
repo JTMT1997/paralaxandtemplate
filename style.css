@@ -1,0 +1,16 @@
+#trd{
+	margin-top: 50px;
+    background: url(img/logjum.png);
+    background-size: cover;
+    height: 600px;
+    background-attachment: fixed;
+     text-align: center;
+  justify-content: center;
+  width: 100%;
+			}
+.footer{
+	background: black;
+	background-size: cover;
+	 background-attachment: fixed;
+	 height: 1600px;
+}
